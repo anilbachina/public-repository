@@ -23,7 +23,6 @@ $VIDEO_PLAYER_TEMPLATE = $ADMIN_TEMPLATE_FOLDER."video_player_template.html";
 $VIDEO_DONE_TEMPLATE = $ADMIN_TEMPLATE_FOLDER."videos_done_template.html";
 
 
-$sjfdhsjfhsdfjhsdf="";
 
 
 
