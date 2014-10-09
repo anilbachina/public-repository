@@ -20,7 +20,8 @@ $QUESTION_OPTION_TEMPLATE ='<div class="radio">
 $VIDEO_TEMPLATE = $ADMIN_TEMPLATE_FOLDER."quiz_video_template.html";
 $VIDEO_PROGRESS_TEMPLATE = $ADMIN_TEMPLATE_FOLDER."video_prgress_template.html";
 $VIDEO_PLAYER_TEMPLATE = $ADMIN_TEMPLATE_FOLDER."video_player_template.html";
-$VIDEO_DONE_TEMPLATE = $ADMIN_TEMPLATE_FOLDER."videos_done_template.html";
+$VIDEO_DONE_TEMPLATE = $ADMIN_TEMPLATE_FOLDER."videos_done_template.html"
+
 
 Anil
 
